@@ -8,7 +8,7 @@
       "name": "cargo: run",
       "type": "PowerShell",
       "request": "launch",
-      "script": "cargo run",
+      "script": "cargo krun",
       "cwd": "${workspaceFolder}"
     }
   ]
